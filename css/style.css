@@ -119,6 +119,7 @@ nav ul a {
 }
 #fond_acceuil{
   height: 800px;
+  margin-top: 0px;
 }
 #Album ul li{
   font-size: 21px;
