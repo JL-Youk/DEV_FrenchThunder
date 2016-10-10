@@ -32,14 +32,14 @@
   <nav>
    <div class="nav-wrapper white ">
      <div class="container">
-       <a href="#" class="brand-logo waves-effect waves-light black-text">French Thunder</a>
+       <a href="#" class="brand-logo waves-effect waves-light black-text">FRENCH THUNDER</a>
        <a href="#" data-activates="slide-out" class="button-collapse waves-effect waves-light black-text"><i class="material-icons">menu</i></a>
 
        <ul id="nav-mobile" class="right hide-on-med-and-down ">
-         <li class="waves-effect waves-light"><a href="# "><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a></li>
-         <li class="waves-effect waves-light"><a href="# "><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a></li>
-         <li class="waves-effect waves-light"><a href="# "><i class="fa fa-tumblr fa-3x" aria-hidden="true"></i></a></li>
-         <li class="waves-effect waves-light"><a href="# "><i class="fa fa-soundcloud fa-3x" aria-hidden="true"></i></a></li>
+         <li class="waves-effect waves-light"><a target="_blank" href="https://www.facebook.com/frenchthunder/"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a></li>
+         <li class="waves-effect waves-light"><a target="_blank" href="https://twitter.com/frenchthunder"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a></li>
+         <li class="waves-effect waves-light"><a target="_blank" href="http://frenchthunder.tumblr.com/"><i class="fa fa-tumblr fa-3x" aria-hidden="true"></i></a></li>
+         <li class="waves-effect waves-light"><a target="_blank" href="https://soundcloud.com/french_thunder"><i class="fa fa-soundcloud fa-3x" aria-hidden="true"></i></a></li>
        </ul>
      </div>
    </div>
@@ -48,7 +48,7 @@
 
  <!-- menu mobil-->
  <ul id="slide-out" class="side-nav">
-   <li <h2 class="brand-logo">French Thunder</h2></li>
+   <li <h1 class="brand-logo">FRENCH THUNDER</h1></li>
    <li class="waves-effect waves-light"><a href="# "><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a></li>
    <li><div class="divider"></div></li>
    <li class="waves-effect waves-light"><a href="# "><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a></li>
@@ -100,7 +100,7 @@
   <div class="row" id="Music">
         <h1 class="col s12 light center header RevealElementForm">Music</h1>
     <div class="container RevealElementForm">
-      <h2 class="col m6 s12 light center ">NEW WORLD</h2>
+      <h2 class="col m6 s12 light center ">FRESH</h2>
       <h3 class="col m6 s12 light center " style="padding-top: 25px;">Available everywhere</h3>
     </div>
   </div>
@@ -109,20 +109,23 @@
       <div class="col m6 s12">
         <div class="z-depth-1" id="Album">
           <ul>
-            <li># New World</li>
-            <li># Fresh</li>
-            <li># Fresh</li>
-            <li># Fresh</li>
-            <li># Fresh</li>
-            <li># Fresh</li>
+            <li># N</li>
+            <li># I</li>
+            <li># FRESH</li>
+            <li># 21</li>
+            <li># FORSAKEN</li>
+            <li># I</li>
+            <li># N</li>
           </ul>
         </div>
       </div>
       <div class="col m6 s12">
-        <a href=""><h5><i class="fa fa-apple" aria-hidden="true"></i> Apple music</h5></a>
-        <a href=""><h5><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</h5></a>
-        <a href=""><h5><i class="fa fa-soundcloud" aria-hidden="true"></i> SoundCloud</h5></a>
-        <a href=""><h5><i class="fa fa-google" aria-hidden="true"></i> GooglePlay</h5></a>
+        <a href="https://itunes.apple.com/fr/album/fresh-feat.-wunity-single/id1115774383"  target="_blank" ><h5><i class="fa fa-apple" aria-hidden="true"></i> Apple music</h5></a>
+        <a href="https://open.spotify.com/album/2c7nosK3iJMDBJRWdiVguy"  target="_blank" ><h5><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</h5></a>
+        <a href="http://www.deezer.com/album/13147718"  target="_blank" ><h5><i class="fa fa-deezer" aria-hidden="true"></i> Deezer</h5></a>
+        <a href="https://soundcloud.com/french_thunder/french_thunder-wunity-fresh"  target="_blank" ><h5><i class="fa fa-soundcloud" aria-hidden="true"></i> SoundCloud</h5></a>
+        <a href="https://play.google.com/store/music/album/French_Thunder_Fresh_feat_Wunity?id=Beb3cugleaons3lb5wdqtrez64a&hl=fr"  target="_blank" ><h5><i class="fa fa-google" aria-hidden="true"></i> GooglePlay</h5></a>
+        <a href="http://tidal.com/fr/store/artist/7838514" target="_blank"><h5><i class="fa fa-tidal" aria-hidden="true"></i> Tidal</h5></a>
       </div>
     </div>
   </div>
@@ -191,15 +194,10 @@
     <div class="container">
       <div class="row ">
         <div class="col l6 s12">
-          <h5 class="white-text">© 2016 Copyright FrenchThunder</h5>
+          <h5 class="white-text">(C) Copyright Thunderdome Music</h5>
         </div>
         <div class="col l4 offset-l2 s12">
-          <div>
-            <a class="grey-text text-lighten-3 waves-effect waves-light" href="#!"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
-            <a class="grey-text text-lighten-3 waves-effect waves-light" href="#!"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
-            <a class="grey-text text-lighten-3 waves-effect waves-light" href="#!"><i class="fa fa-tumblr fa-3x" aria-hidden="true"></i></a>
-            <a class="grey-text text-lighten-3 waves-effect waves-light" href="#!"><i class="fa fa-soundcloud fa-3x" aria-hidden="true"></i></a>
-          </div>
+          <h6 style="margin-top: 50px;" class="white-text">Website designed by <a target="_blank" href="http://www.wunitysensei.com">William Lawrence</a></h6>
         </div>
       </div>
     </div>
