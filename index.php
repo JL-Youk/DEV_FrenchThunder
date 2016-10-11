@@ -70,6 +70,7 @@
             </a>
             <ul>
               <li><a href="#Home" class="btn-floating black" style="transform: scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px); opacity: 0;"><i class="material-icons">home</i></a></li>
+              <li><a href="#Bio" class="btn-floating black" style="transform: scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px); opacity: 0;"><i class="material-icons">group</i></a></li>
               <li><a href="#Music" class="btn-floating black" style="transform: scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px); opacity: 0;"><i class="material-icons">music_note</i></a></li>
               <li><a href="#Video" class="btn-floating black" style="transform: scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px); opacity: 0;"><i class="material-icons">videocam</i></a></li>
               <li><a href="#Contact" class="btn-floating black" style="transform: scaleY(0.4) scaleX(0.4) translateY(40px) translateX(0px); opacity: 0;"><i class="material-icons">mail_outline</i></a></li>
