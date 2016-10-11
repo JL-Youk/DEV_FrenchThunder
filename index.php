@@ -123,10 +123,10 @@
       <div class="col m6 s12">
         <a href="https://itunes.apple.com/fr/album/fresh-feat.-wunity-single/id1115774383"  target="_blank" ><h5><i class="fa fa-apple" aria-hidden="true"></i> Apple music</h5></a>
         <a href="https://open.spotify.com/album/2c7nosK3iJMDBJRWdiVguy"  target="_blank" ><h5><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</h5></a>
-        <a href="http://www.deezer.com/album/13147718"  target="_blank" ><h5><i class="fa fa-deezer" aria-hidden="true"></i> Deezer</h5></a>
+        <a href="http://www.deezer.com/album/13147718"  target="_blank" ><h5><i class="fa fa-apple" aria-hidden="true"></i> Deezer</h5></a>
         <a href="https://soundcloud.com/french_thunder/french_thunder-wunity-fresh"  target="_blank" ><h5><i class="fa fa-soundcloud" aria-hidden="true"></i> SoundCloud</h5></a>
         <a href="https://play.google.com/store/music/album/French_Thunder_Fresh_feat_Wunity?id=Beb3cugleaons3lb5wdqtrez64a&hl=fr"  target="_blank" ><h5><i class="fa fa-google" aria-hidden="true"></i> GooglePlay</h5></a>
-        <a href="http://tidal.com/fr/store/artist/7838514" target="_blank"><h5><i class="fa fa-tidal" aria-hidden="true"></i> Tidal</h5></a>
+        <a href="http://tidal.com/fr/store/artist/7838514" target="_blank"><h5><i class="fa fa-apple" aria-hidden="true"></i> Tidal</h5></a>
       </div>
     </div>
   </div>
