@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html>
   <head>
@@ -32,7 +33,7 @@
   <nav>
    <div class="nav-wrapper white ">
      <div class="container">
-       <a href="#" class="brand-logo waves-effect waves-light black-text">FRENCH THUNDER</a>
+       <a href="#" class="brand-logo waves-effect waves-light black-text police_rokkitt">FRENCH THUNDER</a>
        <a href="#" data-activates="slide-out" class="button-collapse waves-effect waves-light black-text"><i class="material-icons">menu</i></a>
 
        <ul id="nav-mobile" class="right hide-on-med-and-down ">
@@ -78,10 +79,10 @@
   </div>
 
   <!-- #Bio -->
-  <div class="row" id="Bio">
+  <div class="row police_rokkitt" id="Bio">
 
     <div class="container RevealElementForm">
-      <h1 class="col s12 light center header RevealElementForm">Biographie</h1>
+      <h1 class="col s12 light center header RevealElementForm">BIOGRAPHIE</h1>
       <div class="col m6 s12">
         <h4>QUI SOMMES NOUS ?</h4>
         <p>
@@ -99,34 +100,34 @@
     </div>
   <!-- #Music -->
   <div class="row" id="Music">
-        <h1 class="col s12 light center header RevealElementForm">Music</h1>
-    <div class="container RevealElementForm">
-      <h2 class="col m6 s12 light center ">FRESH</h2>
-      <h3 class="col m6 s12 light center " style="padding-top: 25px;">Available everywhere</h3>
-    </div>
+        <h1 class="col s12 light center header police_rokkitt RevealElementForm">MUSIC</h1>
   </div>
   <div class="row" >
     <div class="container RevealElementForm">
       <div class="col m6 s12">
         <div class="z-depth-1" id="Album">
-          <ul>
-            <li># N</li>
-            <li># I</li>
-            <li># FRESH</li>
-            <li># 21</li>
-            <li># FORSAKEN</li>
-            <li># I</li>
-            <li># N</li>
+          <ul class="collection with-header">
+            <li class="collection-header"><h2 class="center police_rokkitt">NEW WORLD</h2></li>
+            <li class="collection-item"><div># N</div></li>
+            <li class="collection-item"># I</li>
+            <li class="collection-item"># FRESH</li>
+            <li class="collection-item"># 21</li>
+            <li class="collection-item"># FORSAKEN</li>
+            <li class="collection-item"># I</li>
+            <li class="collection-item"># N</li>
           </ul>
         </div>
       </div>
       <div class="col m6 s12">
-        <a href="https://itunes.apple.com/fr/album/fresh-feat.-wunity-single/id1115774383"  target="_blank" ><h5><i class="fa fa-apple" aria-hidden="true"></i> Apple music</h5></a>
-        <a href="https://open.spotify.com/album/2c7nosK3iJMDBJRWdiVguy"  target="_blank" ><h5><i class="fa fa-spotify" aria-hidden="true"></i> Spotify</h5></a>
-        <a href="http://www.deezer.com/album/13147718"  target="_blank" ><h5><i class="fa fa-apple" aria-hidden="true"></i> Deezer</h5></a>
-        <a href="https://soundcloud.com/french_thunder/french_thunder-wunity-fresh"  target="_blank" ><h5><i class="fa fa-soundcloud" aria-hidden="true"></i> SoundCloud</h5></a>
-        <a href="https://play.google.com/store/music/album/French_Thunder_Fresh_feat_Wunity?id=Beb3cugleaons3lb5wdqtrez64a&hl=fr"  target="_blank" ><h5><i class="fa fa-google" aria-hidden="true"></i> GooglePlay</h5></a>
-        <a href="http://tidal.com/fr/store/artist/7838514" target="_blank"><h5><i class="fa fa-apple" aria-hidden="true"></i> Tidal</h5></a>
+        <div class="collection z-depth-1">
+          <h3 class="collection-header center police_rokkitt" style="padding-top: 25px;">Available everywhere</h3>
+          <a class="collection-item" href="https://itunes.apple.com/fr/album/fresh-feat.-wunity-single/id1115774383"  target="_blank" ><h5><img class="logo_service_music" src="images/apple.png" alt="" /> Apple music</h5></a>
+          <a class="collection-item" href="https://open.spotify.com/album/2c7nosK3iJMDBJRWdiVguy"  target="_blank" ><h5><img class="logo_service_music" src="images/spotify.png" alt="" /> Spotify</h5></a>
+          <a class="collection-item" href="http://www.deezer.com/album/13147718"  target="_blank" ><h5><img class="logo_service_music" src="images/deezer.jpg" alt="" /> Deezer</h5></a>
+          <a class="collection-item" href="https://soundcloud.com/french_thunder/french_thunder-wunity-fresh"  target="_blank" ><h5><img class="logo_service_music" src="images/soundcloud.png" alt="" /> SoundCloud</h5></a>
+          <a class="collection-item" href="https://play.google.com/store/music/album/French_Thunder_Fresh_feat_Wunity?id=Beb3cugleaons3lb5wdqtrez64a&hl=fr"  target="_blank" ><h5><img class="logo_service_music" src="images/googleplay.png" alt="" /> GooglePlay</h5></a>
+          <a class="collection-item" href="http://tidal.com/fr/store/artist/7838514" target="_blank"><h5><img class="logo_service_music" src="images/tidal.png" alt="" /> Tidal</h5></a>
+        </div>
       </div>
     </div>
   </div>
@@ -136,20 +137,20 @@
     </div>
   <!-- #Video -->
   <div class="row" id="Video">
-    <h1 class="col s12 light center header RevealElementForm">Video</h1>
+    <h1 class="col s12 light center header police_rokkitt RevealElementForm">VIDEO</h1>
   </div>
-  <div class="row" >
+  <div class="row" style="margin-bottom: 0px;" >
     <div class="video-container">
          <iframe width="853" height="480" src="//www.youtube.com/embed/fWOhZwgZfZM?rel=0" frameborder="0" allowfullscreen></iframe>
        </div>
   </div>
 
-  <div class="parallax-container">
+  <div class="parallax-container" style="margin-top: 0px;">
       <div class="parallax"><img src="images/flash.jpg" ></div>
     </div>
   <!-- #Contact -->
   <div class="row" id="Contact">
-    <h1 class="col s12 light center header RevealElementForm">Contact</h1>
+    <h1 class="col s12 light center header police_rokkitt RevealElementForm">CONTACT</h1>
   </div>
   <div class="row" >
     <div class="container">
@@ -194,10 +195,10 @@
   <footer class="page-footer black" id="social">
     <div class="container">
       <div class="row ">
-        <div class="col l6 s12">
+        <div class="col l6 s12 left-align">
           <h5 class="white-text">(C) Copyright Thunderdome Music</h5>
         </div>
-        <div class="col l4 offset-l2 s12">
+        <div class="col l4 offset-l2 s12 right-align">
           <h6 style="margin-top: 50px;" class="white-text">Website designed by <a target="_blank" href="http://www.wunitysensei.com">William Lawrence</a></h6>
         </div>
       </div>
