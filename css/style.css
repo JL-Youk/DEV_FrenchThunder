@@ -124,10 +124,7 @@ nav ul a {
   margin-top: 0px;
 }
 #Album ul li{
-  font-size: 21px;
-padding-top: 5px;
-padding-bottom: 5px;
-padding-left: 25px;
+    font-size: 18px;
 }
 #Bio{
   margin-top: 100px;
@@ -155,5 +152,5 @@ padding-left: 25px;
     vertical-align: bottom;
 }
 .liste_musique{
-  
+
 }

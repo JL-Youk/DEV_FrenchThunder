@@ -120,8 +120,8 @@
       </div>
       <div class="col m6 s12">
         <div class="collection z-depth-1">
-          <h3 class="collection-header center police_rokkitt" style="padding-top: 25px;">Available everywhere</h3>
-          <a class="collection-item" href="https://itunes.apple.com/fr/album/fresh-feat.-wunity-single/id1115774383"  target="_blank" ><h5><img class="logo_service_music" src="images/apple.png" alt="" /> Apple music</h5></a>
+          <h4 class="collection-header center police_rokkitt" style="padding-top: 25px;">FRESH Available everywhere</h4>
+          <a class="collection-item" href="https://itunes.apple.com/fr/album/fresh-feat.-wunity-single/id1115774383"  target="_blank" ><h5><img class="logo_service_music" src="images/16-apple-128.png" alt="" /> Apple music</h5></a>
           <a class="collection-item" href="https://open.spotify.com/album/2c7nosK3iJMDBJRWdiVguy"  target="_blank" ><h5><img class="logo_service_music" src="images/spotify.png" alt="" /> Spotify</h5></a>
           <a class="collection-item" href="http://www.deezer.com/album/13147718"  target="_blank" ><h5><img class="logo_service_music" src="images/deezer.jpg" alt="" /> Deezer</h5></a>
           <a class="collection-item" href="https://soundcloud.com/french_thunder/french_thunder-wunity-fresh"  target="_blank" ><h5><img class="logo_service_music" src="images/soundcloud.png" alt="" /> SoundCloud</h5></a>
@@ -141,7 +141,7 @@
   </div>
   <div class="row" style="margin-bottom: 0px;" >
     <div class="video-container">
-         <iframe width="853" height="480" src="//www.youtube.com/embed/fWOhZwgZfZM?rel=0" frameborder="0" allowfullscreen></iframe>
+         <iframe width="853" height="480" src="//www.youtube.com/embed/uiyjlluX9vY?rel=0" frameborder="0" allowfullscreen></iframe>
        </div>
   </div>
 
@@ -154,33 +154,33 @@
   </div>
   <div class="row" >
     <div class="container">
-      <form class="col s12 RevealElementForm" id="formulaireContact">
+      <form class="col s12 RevealElementForm" id="formulaireContact" method="post" action="formulaire_traitement.php">
         <div class="row">
           <div class="input-field col m4 s12 ">
             <i class="material-icons prefix">account_circle</i>
-            <input required id="icon_prefix" type="text" class="validate">
+            <input required id="icon_prefix" name="nom" type="text" class="validate">
             <label for="icon_prefix">Nom</label>
           </div>
           <div class="input-field col m4 s12 ">
             <i class="material-icons prefix">phone</i>
-            <input required id="icon_telephone" type="tel" class="validate">
+            <input required id="icon_telephone" name="phone" type="tel" class="validate">
             <label for="icon_telephone">Telephone</label>
           </div>
           <div class="input-field col m4 s12 ">
             <i class="material-icons prefix">email</i>
-            <input required id="email" type="email" class="validate">
+            <input required id="email" name="mail" type="email" class="validate">
             <label for="email" data-error="wrong" data-success="right">Mail</label>
           </div>
         </div>
         <div class="row">
             <div class="input-field col s12">
               <i class="material-icons prefix">mode_edit</i>
-             <textarea id="textarea1" class="materialize-textarea"></textarea>
+             <textarea id="textarea1" name="message" class="materialize-textarea"></textarea>
              <label for="textarea1">Message</label>
            </div>
          </div>
 
-         <button class="btn waves-effect waves-light z-depth-4  black" type="submit" name="action">Submit
+         <button class="btn waves-effect waves-light z-depth-4  black"  type="submit" name="action">Submit
            <i class="material-icons right">send</i>
          </button>
         </div>
@@ -196,10 +196,10 @@
     <div class="container">
       <div class="row ">
         <div class="col l6 s12 left-align">
-          <h5 class="white-text">(C) Copyright Thunderdome Music</h5>
+          <h5 class="white-text" style="font-size: 22px;">© 2016 COPYRIGHT THUNDERDOME MUSIC</h5>
         </div>
         <div class="col l4 offset-l2 s12 right-align">
-          <h6 style="margin-top: 50px;" class="white-text">Website designed by <a target="_blank" href="http://www.wunitysensei.com">William Lawrence</a></h6>
+          <h6 style="margin-top: 50px;font-style: italic;" class="white-text">Website designed by <a target="_blank" href="http://www.wunitysensei.com">William Lawrence</a></h6>
         </div>
       </div>
     </div>
