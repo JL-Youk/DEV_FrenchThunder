@@ -10,6 +10,7 @@
     <link type="text/css" rel="stylesheet" href="css/font-awesome.min.css"  media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="css/style.css"  media="screen,projection"/>
     <title>French Thunder</title>
+    <link rel="icon" type="image/png" href="images/YnhChXv-_400x400.jpg" />
     <!--Let browser know website is optimized for mobile-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <!--Import jQuery before materialize.js-->
@@ -63,7 +64,11 @@
  <!--fin menu mobil-->
 
  <div  id="fond_acceuil" class="parallax-container">
-   <div  class="parallax" ><img src="images/flash.jpg"></div>
+
+     <img style="margin: auto; display: block;" class="center responsive-img" src="images/14962306_10211341948208964_245228205_n.jpg" alt="" />
+
+   <div  class="parallax" ><img src="images/flash.jpg">
+   </div>
   </div>
   <div class="fixed-action-btn " style="bottom: 45px; right: 24px;">
             <a class="btn-floating btn-large black">
@@ -86,8 +91,16 @@
       <div class="col m6 s12">
         <h4>QUI SOMMES NOUS ?</h4>
         <p>
-        Nous sommes un duo musical mélangeant différents styles de musiques afin d'apporter un son nouveau au public. La musique que nous voulons promouvoir est un mélange de Future House et de Trap créant un nouveau genre musical que nous avons nommé FUTURE TRAP.<br><br>
-        Nous sommes des artistes indépendant&nbsp;qui ont&nbsp;l'ambition d'apporter du nouveau à la musique, cepandant pour grandir en tant&nbsp;qu'artistes et proposer de nouvelles compositions originales.</p>
+          Born in Colombia, raised in France, I decided to go by the name French Thunder due to the crazy energy within my mind that I'll put in my music.<br>
+          I have been composing and mixing my music since 2010 and I knew that something was missing and that's why I seeked inspiration from various styles and artists.
+        </p>
+        <p>
+          DJ Snake, Dr. Dre, Yellow Claw and Noah "40" Shebib are my main influences  because they've helped me to evelate my vision.<br>
+          The power coming from electronic music and the clout coming from the words of rap music is something that I heavily like.
+        </p>
+        <p>
+          I have been working for a long time now with my big brother William Lawrence known professionally as Wunity. We both have the ambition to bring something new to music by merging our styles respectives Electronic and Rap music.
+        </p>
       </div>
       <div class="col m6 s12">
         <img class="responsive-img" src="images/f8c031791e440900c35441cc8af696.jpg" alt="" />
